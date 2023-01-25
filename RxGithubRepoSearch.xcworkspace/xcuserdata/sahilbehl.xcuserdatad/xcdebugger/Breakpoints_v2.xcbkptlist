@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7020A8BF-4AD9-41DC-947C-7C582EE40559"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CF96567-972E-4337-A959-B136F4AA9756"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxGithubRepoSearch/GithubAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "searchRepos(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CF96567-972E-4337-A959-B136F4AA9756 - efd7c1e76363c1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; () in closure #1 ((Swift.Result&lt;RxGithubRepoSearch.ReposResponse, Swift.Error&gt;) -&gt; ()) -&gt; RxSwift.Disposable in RxGithubRepoSearch.GithubAPI.searchRepos(for: Swift.String) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, RxGithubRepoSearch.ReposResponse&gt;"
+                  moduleName = "RxGithubRepoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilbehl/Desktop/PP/RxGithubRepoSearch/RxGithubRepoSearch/GithubAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "4CF96567-972E-4337-A959-B136F4AA9756 - add2bacc3848962"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 ((Swift.Result&lt;RxGithubRepoSearch.ReposResponse, Swift.Error&gt;) -&gt; ()) -&gt; RxSwift.Disposable in RxGithubRepoSearch.GithubAPI.searchRepos(for: Swift.String) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, RxGithubRepoSearch.ReposResponse&gt;"
+                  moduleName = "RxGithubRepoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilbehl/Desktop/PP/RxGithubRepoSearch/RxGithubRepoSearch/GithubAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "4CF96567-972E-4337-A959-B136F4AA9756 - b6faae87f4869c84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 ((Swift.Result&lt;RxGithubRepoSearch.ReposResponse, Swift.Error&gt;) -&gt; ()) -&gt; RxSwift.Disposable in RxGithubRepoSearch.GithubAPI.searchRepos(for: Swift.String) -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, RxGithubRepoSearch.ReposResponse&gt;"
+                  moduleName = "RxGithubRepoSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilbehl/Desktop/PP/RxGithubRepoSearch/RxGithubRepoSearch/GithubAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DA173F1-7A17-4BFC-B07F-4AF1C8E256F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxGithubRepoSearch/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "transform(inputs:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61C3F1BE-BDA5-4FE1-8327-31AE98AF53D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxGithubRepoSearch/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "transform(inputs:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE37F88E-49D3-48F4-9D7B-09C00212BC42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxGithubRepoSearch/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "transform(inputs:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B601FE98-E387-4C64-8AC0-779C8A72D8A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxGithubRepoSearch/GithubAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "searchRepos(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
